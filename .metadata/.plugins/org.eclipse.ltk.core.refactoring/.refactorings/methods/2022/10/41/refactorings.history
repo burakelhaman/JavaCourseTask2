@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;aranacak&apos; in &apos;methods.Main.sayiBulma(...)&apos; to &apos;gelen&apos;&#x0D;&#x0A;- Original project: &apos;methods&apos;&#x0D;&#x0A;- Original element: &apos;methods.Main.sayiBulma(int).aranacak&apos;&#x0D;&#x0A;- Renamed element: &apos;aranacak&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;aranacak&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;methods{Main.java[Main~sayiBulma~I@aranacak!200!211!204!211!I!0!true" name="gelen" references="true" stamp="1664970710581" version="1.0"/>
+</session>
