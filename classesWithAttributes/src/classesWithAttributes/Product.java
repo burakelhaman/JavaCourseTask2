@@ -7,7 +7,7 @@ public class Product {
 	// Bu nedenle Product Class'ı hem Attribute tutup hem de Operasyonları
 	// içermemeli
 
-	// attribute | field
+	// attribute | field / Özellikler
 	int id;
 	String name;
 	String description;
