@@ -6,7 +6,7 @@ public class Main {
 		int gonderilen = 5;
 		sayiBulma(gonderilen);
 
-		mesajGonder("mesaj");
+		mesajGonder("Sayı var");
 	}
 
 	public static void sayiBulma(int gelen) {
